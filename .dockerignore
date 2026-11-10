@@ -1,0 +1,6 @@
+.git
+testout
+build
+protocol-results
+*.png
+*.log
